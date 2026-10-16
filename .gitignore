@@ -1,0 +1,28 @@
+# Deep Learning Datasets (Never commit heavy images or zip files)
+iqa_data/
+*.zip
+*.tar.gz
+*.tar
+
+# Model Checkpoints and Weights
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.h5
+
+# Python & Virtual Environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE, OS & temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
