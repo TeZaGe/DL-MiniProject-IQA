@@ -1,5 +1,5 @@
 # Deep Learning Datasets (Never commit heavy images or zip files)
-iqa_data/
+iqa_data/images/
 *.zip
 *.tar.gz
 *.tar
